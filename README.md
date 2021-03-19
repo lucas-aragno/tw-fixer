@@ -11,7 +11,7 @@ Chrome extension to fix odd twitter scrollbar:
 
 ![example](docs/0.png)
 
-2 - If you are using Chrome visit [this link](chrome://extensions), if you are using edge use [this link](edge://extensions) instead.
+2 - If you are using Chrome visit [this link](chrome://extensions) (chrome://extensions) , if you are using edge use [this link](edge://extensions) (edge://extensions) instead.
 
 
 3 - Make sure you have the developer mode on:
